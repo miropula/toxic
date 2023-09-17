@@ -1,0 +1,28 @@
+Toxic Panel V4
+
+How to install
+
+1. Upload install.py on your server 
+
+2. apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y
+
+3. python install.py
+
+mv apl_core_functions.php /home/xtreamcodes/iptv_xtream_codes/license
+
+When installation finish replace apl_core_functions.php on /home/xtreamcodes/iptv_xtream_codes/license
+
+
+mv apl_core_functions.php /home/xtreamcodes/iptv_xtream_codes/license
+
+
+after that open http://IP:25500/ panel address and put on license number what u want :)
+
+
+
+https://youtu.be/z_DmMBcEJR0
+
+Please store your MySQL password!    
+dE6ZHPC5aQDJvSoP
+
+http://192.168.1.129:25500/mmRdzxV6S8Iu 
